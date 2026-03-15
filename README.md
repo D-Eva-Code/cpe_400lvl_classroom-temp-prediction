@@ -1,7 +1,7 @@
 # Classroom Temperature Prediction
 
 ## Project Description
-This project uses a **Random Forest Regression model** to predict classroom temperatures based on multiple environmental and occupancy features. The goal is to estimate the temperature in a classroom at different times of the day, which can help with comfort and energy management.
+This project uses a **Random Forest Regression model** to predict classroom temperatures based on multiple environmental and occupancy features. The dataset was collected from a UNIBEN 400-level CPE classroom over one week. The goal is to estimate the temperature in the classroom at different times of the day, which can help improve comfort and support energy management.
 
 ## Why we used Random Forest?
 
